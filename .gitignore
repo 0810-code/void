@@ -82,3 +82,7 @@ logs/
 tmp/
 temp/
 *.tmp
+
+.gitignore
+CLAUDE.md
+
